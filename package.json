@@ -1,0 +1,23 @@
+{
+  "name": "barber",
+  "version": "1.0.0",
+  "description": "Barber App",
+  "main": "index.js",
+  "scripts": {
+    "start:api": "node api/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelatg666/barber.git"
+  },
+  "author": "marcela.tobon115@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelatg666/barber/issues"
+  },
+  "homepage": "https://github.com/marcelatg666/barber#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.4"
+  }
+}
